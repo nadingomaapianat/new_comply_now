@@ -29,3 +29,4 @@ dist-ssr
 # Old / legacy
 old
 **/old
+config.bat
